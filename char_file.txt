@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void print_character(char c) {
+  printf("%c\n", c);
+  printf("-------------------\n");
+}
+void main()
+{
+char c='p';
+print_character(c);
+
+}
