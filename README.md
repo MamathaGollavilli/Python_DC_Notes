@@ -10,10 +10,9 @@ For more information, visit the Digicomm Semiconductor [website](https://www.dig
 
 ## Internship Details
 
-- **Duration:** June 1, 2024, to July 12, 2024
+- **Duration:** June 1, 2024, to June 21, 2024
 - **Instructor:** Mamatha Gollavilli
 
 This repository contains the materials, code, and resources for the Python training program.
 
 ---
-
